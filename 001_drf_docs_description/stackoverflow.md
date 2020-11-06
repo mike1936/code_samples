@@ -81,5 +81,3 @@ There are three type of descriptions in DRF docs (as I have tried), they relies 
     ]
 
 Demo here: [drf_docs_description](https://github.com/mike1936/code_samples/tree/main/001_drf_docs_description/my_project)
-
-Post address: [How to properly document query params(search, filtering) Django Rest Framework?](https://stackoverflow.com/questions/53281116/how-to-properly-document-query-paramssearch-filtering-django-rest-framework/64709509#64709509)
